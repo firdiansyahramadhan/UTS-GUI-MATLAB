@@ -1,4 +1,4 @@
-# UTS-GUI-MATLAB
+# UTS-MATLAB Berbasis GUI-Pengolah Citra
 # Nama  : Firdiansyah Ramadhan
 # Nim   : 311910564
 # Kelas : TI.19.F1
